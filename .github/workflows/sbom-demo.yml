@@ -6,7 +6,6 @@ on:
 jobs:
   generate-sbom:
     name: Generate SBOM
-    needs: build-and-publish-images
     runs-on: ubuntu-latest
     steps:
       - uses: anchore/sbom-action@v0.3.0
