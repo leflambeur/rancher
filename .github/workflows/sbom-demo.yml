@@ -26,4 +26,4 @@ jobs:
         with:
           command: release
           asset_id: assets/19ec639f-a649-4155-950a-e4900c77c5a5
-          attachments: '["rancher-rancher_v2.6-head.cyclonedx/rancher-rancher-v2.6-head.cyclonedx"]'
+          attachments: '["rancher-rancher_v2.6-head.cyclonedx/rancher-rancher_v2.6-head.cyclonedx"]'
